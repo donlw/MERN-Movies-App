@@ -16,32 +16,30 @@ This project has a separate backend API and frontend client.
 - Clean project separation (frontend / backend)
 
 ---
-
 ## 📁 Project Structure
 
+```bash
 MERN-MOVIES-APP-MAIN
-│
 ├── backend
-│ ├── config
-│ ├── controllers
-│ ├── middlewares
-│ ├── models
-│ ├── routes
-│ ├── utils
-│ └── index.js
+│   ├── config
+│   ├── controllers
+│   ├── middlewares
+│   ├── models
+│   ├── routes
+│   ├── utils
+│   └── index.js
 │
 ├── frontend
-│ ├── src
-│ ├── index.html
-│ ├── vite.config.js
-│ ├── tailwind.config.js
-│ └── package.json
+│   ├── src
+│   ├── index.html
+│   ├── vite.config.js
+│   ├── tailwind.config.js
+│   └── package.json
 │
 ├── .env
 ├── package.json
 └── README.md
 
----
 
 ## 🛠 Tech Stack
 
